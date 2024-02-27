@@ -1,0 +1,1001 @@
+restaurant_id,restaurant_name,category,price_tier,neighbourhood,opening_hour,good_for_kids
+1,"Ziemann, Wilderman and Cole",Korean,Cheap,Downtown,23:17,true
+2,"Bruen, McKenzie and Ziemann",Japanese,Medium,Midtown,7:06,true
+3,Rippin LLC,Italian,Medium,Downtown,3:50,false
+4,Deckow-Gerhold,Indian,Expensive,Uptown,9:43,true
+5,Weissnat Group,French,Medium,Uptown,21:44,true
+6,"Konopelski, Kuhlman and O'Keefe",That,Expensive,Uptown,5:59,false
+7,"Renner, Considine and Gottlieb",Indian,Medium,Uptown,17:35,true
+8,Nienow-Bogan,Italian,Medium,Downtown,5:06,true
+9,"Huel, Bogan and Upton",American,Medium,Uptown,22:59,true
+10,"Predovic, Hane and Rolfson",That,Expensive,Downtown,13:38,true
+11,Boyer and Sons,Japanese,Medium,Downtown,14:43,false
+12,Hilll Group,American,Cheap,Midtown,21:14,true
+13,Ebert Inc,French,Expensive,Midtown,1:28,true
+14,Hessel-Gerhold,American,Cheap,Downtown,15:43,false
+15,Purdy-Kiehn,Indian,Cheap,Uptown,13:18,false
+16,Gleichner Group,Indian,Medium,Downtown,1:37,true
+17,"Armstrong, Reichert and Parisian",French,Cheap,Uptown,19:53,true
+18,Crona and Sons,Chinese,Expensive,Downtown,4:29,true
+19,"Grady, Greenfelder and Shields",Italian,Cheap,Uptown,7:45,true
+20,Turner Group,That,Expensive,Uptown,20:06,false
+21,"Emmerich, Herman and O'Reilly",Japanese,Cheap,Midtown,11:47,false
+22,Langworth LLC,That,Medium,Midtown,5:56,true
+23,"Muller, Balistreri and Wisoky",Korean,Medium,Midtown,22:49,true
+24,Fisher-Lakin,American,Medium,Uptown,17:04,true
+25,"Paucek, Kertzmann and Zboncak",Chinese,Expensive,Midtown,3:45,false
+26,Weissnat Group,Korean,Cheap,Uptown,23:11,false
+27,Wolf LLC,Chinese,Expensive,Midtown,10:49,false
+28,Dooley Group,Korean,Cheap,Midtown,10:45,true
+29,Reichel Group,Indian,Cheap,Downtown,0:43,true
+30,Wyman LLC,Indian,Medium,Uptown,22:09,false
+31,"Wuckert, Hagenes and Robel",Chinese,Expensive,Downtown,12:33,false
+32,Funk Inc,Japanese,Expensive,Downtown,14:24,true
+33,Ebert-Hammes,Italian,Cheap,Downtown,21:12,false
+34,"Hauck, Hills and Hessel",Japanese,Expensive,Downtown,4:07,true
+35,Bruen Inc,Korean,Cheap,Midtown,16:44,true
+36,Bednar Inc,Indian,Medium,Downtown,7:16,true
+37,Hudson Inc,That,Expensive,Downtown,8:38,true
+38,"Bashirian, Terry and Halvorson",French,Medium,Midtown,20:33,false
+39,"Beahan, Hauck and Lockman",Korean,Cheap,Midtown,18:17,false
+40,"Gorczany, Howe and Veum",American,Medium,Uptown,12:28,true
+41,Zemlak-Wolf,Korean,Expensive,Uptown,11:38,false
+42,"McGlynn, Gerhold and Schaden",American,Expensive,Midtown,5:52,false
+43,Berge-Kerluke,Indian,Medium,Downtown,22:48,false
+44,Kreiger-Tillman,French,Medium,Uptown,11:10,false
+45,Spencer LLC,Japanese,Medium,Uptown,5:11,true
+46,Lindgren-Jacobson,French,Medium,Midtown,23:01,true
+47,"Davis, Rempel and Ullrich",Italian,Medium,Downtown,2:55,true
+48,Rohan-Harvey,American,Cheap,Midtown,19:13,true
+49,Medhurst Inc,Korean,Cheap,Uptown,10:26,true
+50,Balistreri Group,Italian,Cheap,Uptown,9:02,false
+51,Gibson-Davis,American,Medium,Downtown,23:36,false
+52,Kuphal Group,Italian,Expensive,Uptown,4:06,false
+53,"Schultz, Wiza and Crooks",French,Cheap,Downtown,13:14,true
+54,"Gutmann, Ratke and Buckridge",Korean,Cheap,Uptown,11:34,true
+55,"Bailey, Willms and Hegmann",French,Expensive,Uptown,16:17,true
+56,"Gerhold, Spinka and Johnson",French,Expensive,Midtown,9:06,true
+57,"Green, Lakin and Hickle",Chinese,Cheap,Uptown,23:28,false
+58,"Hirthe, Beahan and Auer",Indian,Medium,Uptown,11:52,true
+59,Rau-Marvin,Italian,Medium,Downtown,0:26,false
+60,Gibson and Sons,Korean,Expensive,Midtown,11:30,true
+61,Brakus-Goodwin,French,Medium,Midtown,19:23,false
+62,"Mitchell, Miller and Bogisich",French,Cheap,Downtown,19:02,true
+63,Koss and Sons,That,Expensive,Downtown,21:48,true
+64,Bauch LLC,Indian,Cheap,Downtown,19:48,true
+65,Rath-Gerlach,American,Cheap,Midtown,6:41,true
+66,"Beier, Kilback and Bednar",That,Cheap,Downtown,6:11,true
+67,Schroeder-Carter,Indian,Medium,Uptown,7:55,true
+68,White-Ryan,Chinese,Medium,Downtown,21:28,true
+69,"Beahan, Boyer and Zemlak",That,Expensive,Downtown,14:49,true
+70,Fisher and Sons,Japanese,Medium,Downtown,13:52,true
+71,"Walter, Ritchie and McDermott",That,Medium,Downtown,7:57,true
+72,"Miller, Franecki and Collier",Korean,Medium,Midtown,4:36,true
+73,"Farrell, Heidenreich and Cronin",Korean,Cheap,Uptown,15:13,false
+74,Lindgren-Hahn,That,Cheap,Midtown,18:38,true
+75,"Grant, Roob and Anderson",Chinese,Expensive,Downtown,13:06,false
+76,Metz-Mueller,Japanese,Cheap,Uptown,4:21,true
+77,"Leffler, McGlynn and Zieme",Indian,Cheap,Uptown,4:41,true
+78,Casper-Durgan,Italian,Medium,Midtown,18:15,false
+79,Walker-Goodwin,French,Cheap,Midtown,21:38,true
+80,"Green, Glover and Cruickshank",Japanese,Expensive,Midtown,4:12,false
+81,Conroy-Schamberger,Indian,Expensive,Uptown,7:53,false
+82,Hauck LLC,Chinese,Medium,Midtown,15:50,false
+83,Kreiger and Sons,Korean,Cheap,Downtown,2:46,true
+84,Kohler LLC,Chinese,Expensive,Uptown,0:02,false
+85,Rath LLC,American,Expensive,Midtown,22:47,false
+86,Larkin-Reinger,American,Cheap,Uptown,7:14,true
+87,Champlin-Balistreri,Indian,Cheap,Uptown,17:06,false
+88,"Buckridge, Corkery and Strosin",Italian,Medium,Downtown,0:22,false
+89,Wolff-Welch,French,Medium,Uptown,16:37,false
+90,"Schneider, Keebler and Marvin",American,Cheap,Downtown,8:19,false
+91,Dooley-Prohaska,That,Medium,Uptown,18:40,true
+92,Nicolas-Bernhard,That,Expensive,Downtown,0:31,true
+93,"Bruen, Ledner and Osinski",That,Cheap,Midtown,9:08,false
+94,"Corwin, Kautzer and MacGyver",That,Expensive,Uptown,18:41,true
+95,Donnelly Inc,French,Expensive,Downtown,4:45,false
+96,"Streich, Rosenbaum and Sanford",Italian,Expensive,Downtown,4:55,false
+97,Beier-Kub,Indian,Medium,Downtown,2:36,false
+98,Blick and Sons,Korean,Cheap,Midtown,5:04,false
+99,Lindgren Inc,French,Expensive,Midtown,5:32,true
+100,Trantow Inc,Korean,Cheap,Uptown,23:10,true
+101,Halvorson LLC,Korean,Cheap,Downtown,23:37,false
+102,Berge Group,Italian,Cheap,Uptown,13:15,false
+103,"Waters, Johnson and Leannon",That,Cheap,Midtown,15:49,true
+104,"Raynor, Torp and Kulas",French,Expensive,Downtown,14:31,true
+105,"Hyatt, Koch and Yost",Italian,Cheap,Uptown,13:26,true
+106,Spencer Inc,Korean,Cheap,Downtown,9:53,true
+107,Pollich-Schaden,French,Cheap,Midtown,18:41,true
+108,"Brakus, Anderson and Jenkins",American,Cheap,Uptown,17:46,false
+109,Cummerata-Grady,French,Medium,Downtown,0:33,false
+110,"Grady, Powlowski and Johnston",Indian,Medium,Uptown,14:06,false
+111,Ratke and Sons,That,Expensive,Uptown,11:16,true
+112,Zboncak-Botsford,Chinese,Cheap,Uptown,12:24,true
+113,"Dooley, Waelchi and Hahn",French,Medium,Midtown,19:48,true
+114,Emmerich-Hermann,French,Cheap,Uptown,8:36,false
+115,"Berge, Harber and Crist",That,Cheap,Uptown,6:40,false
+116,Nicolas-Kuphal,Japanese,Medium,Downtown,2:31,true
+117,"Mayer, Jacobson and Shanahan",Chinese,Cheap,Midtown,1:19,false
+118,Abshire LLC,Chinese,Cheap,Uptown,19:25,false
+119,"D'Amore, Hackett and Sawayn",Korean,Cheap,Midtown,10:55,true
+120,Koch-Marks,Indian,Medium,Downtown,14:23,false
+121,"Rowe, Bode and Bergnaum",Chinese,Medium,Uptown,13:33,false
+122,Sawayn Group,French,Cheap,Downtown,23:44,true
+123,"Conroy, Dickens and Bernhard",French,Cheap,Midtown,6:31,false
+124,Turner-Koch,That,Expensive,Midtown,0:03,false
+125,Bartell Group,Indian,Expensive,Midtown,18:47,true
+126,Rice Inc,Italian,Expensive,Uptown,15:17,false
+127,"Prosacco, Kertzmann and Olson",Japanese,Medium,Uptown,3:30,true
+128,Barrows-Johnson,American,Expensive,Uptown,22:22,false
+129,Ullrich-Mann,Italian,Medium,Downtown,16:46,true
+130,Ondricka Group,That,Cheap,Downtown,8:05,true
+131,"Wilkinson, Cremin and Kuhic",American,Medium,Uptown,11:20,true
+132,Runolfsson-Gulgowski,Indian,Medium,Midtown,19:49,false
+133,"Muller, Luettgen and Bahringer",Italian,Medium,Midtown,18:51,true
+134,Russel and Sons,Chinese,Expensive,Downtown,0:43,true
+135,"Collins, Thiel and Corkery",American,Medium,Midtown,2:55,false
+136,Lowe LLC,French,Cheap,Uptown,5:30,true
+137,Altenwerth-Nitzsche,Italian,Cheap,Midtown,2:12,true
+138,Beatty-Gislason,Japanese,Medium,Downtown,21:44,false
+139,Barton and Sons,Italian,Expensive,Uptown,9:47,false
+140,"Gleason, Balistreri and Wintheiser",Italian,Cheap,Downtown,1:01,true
+141,Kemmer Inc,That,Medium,Uptown,16:54,true
+142,"Moen, Schowalter and Schultz",Chinese,Medium,Midtown,6:18,false
+143,Gottlieb-Kuhic,That,Cheap,Midtown,1:43,true
+144,"Leannon, Jakubowski and Pollich",That,Expensive,Downtown,20:33,false
+145,"Harris, Feeney and Will",Indian,Cheap,Midtown,17:49,true
+146,Streich-Pfannerstill,That,Medium,Downtown,16:20,false
+147,Bahringer and Sons,American,Expensive,Downtown,23:54,false
+148,Hyatt Group,That,Medium,Downtown,2:35,false
+149,"Keeling, Larson and Renner",That,Medium,Uptown,21:36,false
+150,Streich LLC,French,Medium,Uptown,17:15,false
+151,Little Inc,French,Expensive,Uptown,1:34,false
+152,"Keeling, Fritsch and Hodkiewicz",American,Cheap,Downtown,19:06,false
+153,Raynor-Veum,French,Cheap,Downtown,13:12,true
+154,Schaden-Ebert,Japanese,Cheap,Midtown,10:22,false
+155,"Lowe, Goodwin and Schinner",French,Medium,Uptown,10:37,false
+156,Zulauf Inc,That,Medium,Uptown,15:53,false
+157,Price-Howe,Italian,Medium,Midtown,13:20,false
+158,Hyatt and Sons,Chinese,Expensive,Midtown,19:05,false
+159,Roob and Sons,Chinese,Expensive,Downtown,1:21,false
+160,Aufderhar-Spencer,Japanese,Cheap,Downtown,0:38,false
+161,Dooley and Sons,Italian,Medium,Midtown,21:56,true
+162,"Hoppe, West and Luettgen",Italian,Expensive,Uptown,18:03,true
+163,Hudson Group,That,Expensive,Uptown,11:30,false
+164,Spinka LLC,American,Medium,Midtown,3:28,true
+165,Haag-Stokes,Japanese,Expensive,Uptown,17:51,true
+166,"Heidenreich, Sawayn and Bogan",That,Cheap,Downtown,9:22,true
+167,"Runolfsdottir, Wolff and Walter",Italian,Expensive,Midtown,1:01,false
+168,Goldner-Kuphal,Chinese,Medium,Midtown,14:50,true
+169,Keeling-Wiza,Japanese,Cheap,Uptown,1:46,true
+170,McLaughlin LLC,Indian,Cheap,Midtown,7:50,false
+171,"Bogisich, Toy and Goyette",American,Expensive,Midtown,9:38,false
+172,Johns Group,Italian,Expensive,Downtown,15:15,true
+173,"Nicolas, Wyman and Krajcik",Korean,Cheap,Uptown,19:06,false
+174,Marquardt LLC,Indian,Medium,Uptown,19:57,false
+175,Williamson Inc,American,Medium,Midtown,2:06,true
+176,Weissnat LLC,Indian,Expensive,Midtown,19:22,true
+177,Williamson-Becker,Japanese,Medium,Downtown,9:34,true
+178,Weimann-Lemke,Italian,Medium,Midtown,23:07,false
+179,Conn-Johns,American,Expensive,Midtown,0:56,false
+180,Bartoletti-Moen,Chinese,Medium,Midtown,11:49,true
+181,"Abernathy, Heller and Prosacco",That,Cheap,Uptown,12:12,false
+182,Herzog Group,American,Medium,Midtown,23:21,false
+183,"Shields, Goodwin and Hilll",American,Cheap,Downtown,10:33,true
+184,"Kihn, Schiller and Yundt",Italian,Medium,Uptown,6:38,true
+185,Hilpert-Farrell,Italian,Medium,Midtown,17:14,true
+186,"Powlowski, VonRueden and Aufderhar",French,Expensive,Midtown,12:35,true
+187,Turner LLC,Chinese,Medium,Uptown,3:50,false
+188,Pouros LLC,Italian,Medium,Midtown,0:44,true
+189,"McKenzie, Mante and Roberts",American,Medium,Midtown,4:08,false
+190,"Jacobs, Kertzmann and Gorczany",French,Medium,Midtown,15:30,false
+191,Marvin LLC,Korean,Medium,Downtown,20:41,false
+192,Wisozk-Murray,Chinese,Cheap,Downtown,23:21,false
+193,"Stokes, Thompson and Fadel",American,Medium,Uptown,4:38,true
+194,"Bins, Hirthe and Dicki",Chinese,Cheap,Uptown,12:21,true
+195,Harris Group,Italian,Medium,Uptown,21:28,true
+196,Boehm LLC,American,Cheap,Midtown,4:33,true
+197,"Streich, Ullrich and Rogahn",Korean,Medium,Downtown,17:44,true
+198,Wuckert-Schoen,Chinese,Cheap,Uptown,19:30,false
+199,"Bruen, Reichel and Johnston",Italian,Expensive,Downtown,9:37,false
+200,"Anderson, Kunze and O'Hara",That,Expensive,Midtown,20:48,false
+201,Morar-Rempel,Korean,Medium,Midtown,11:07,false
+202,Schumm-Reilly,Korean,Medium,Uptown,15:15,true
+203,Bailey Group,Japanese,Cheap,Uptown,2:12,false
+204,"Trantow, Franecki and Langosh",French,Cheap,Midtown,9:52,true
+205,"Ritchie, Zieme and Kessler",Italian,Expensive,Midtown,11:56,true
+206,Toy-Shields,Chinese,Cheap,Uptown,0:42,true
+207,Wilderman Group,Japanese,Cheap,Downtown,17:43,true
+208,"Corkery, Schmitt and Aufderhar",Indian,Cheap,Downtown,17:34,true
+209,"Lindgren, Kirlin and Steuber",Korean,Cheap,Uptown,0:05,true
+210,Waelchi LLC,Indian,Expensive,Midtown,18:57,true
+211,"Gulgowski, Ruecker and Quitzon",Korean,Medium,Downtown,7:18,true
+212,Ruecker-Wehner,Italian,Cheap,Uptown,14:13,false
+213,"Baumbach, Altenwerth and Renner",Korean,Medium,Midtown,1:40,false
+214,"Carroll, Mills and Kunze",Italian,Cheap,Midtown,21:53,false
+215,"VonRueden, Harber and Schneider",Korean,Medium,Midtown,4:21,false
+216,Metz Inc,Chinese,Medium,Downtown,20:58,false
+217,Huel-Lang,French,Cheap,Downtown,17:59,false
+218,"Keebler, Gleichner and Ferry",Japanese,Expensive,Downtown,13:29,false
+219,"Kirlin, Cummings and Herzog",Chinese,Expensive,Midtown,17:29,false
+220,Kreiger and Sons,Chinese,Cheap,Downtown,1:55,false
+221,Gerlach LLC,Indian,Medium,Uptown,12:06,true
+222,"Oberbrunner, Schumm and Toy",Chinese,Medium,Uptown,20:17,false
+223,D'Amore-Mante,Italian,Cheap,Downtown,0:51,false
+224,Durgan-Graham,Italian,Medium,Midtown,5:29,true
+225,Goldner-Thompson,French,Expensive,Downtown,2:30,true
+226,Nicolas-Hyatt,Japanese,Expensive,Uptown,5:30,true
+227,McDermott-Mosciski,Chinese,Cheap,Midtown,11:50,true
+228,"Thiel, Funk and Swift",American,Medium,Midtown,18:19,true
+229,"Volkman, Torphy and Ernser",That,Medium,Midtown,2:38,true
+230,Schimmel-Hyatt,American,Expensive,Uptown,7:09,true
+231,Turner-Hudson,Italian,Medium,Midtown,18:00,false
+232,"Flatley, Satterfield and Bosco",French,Medium,Midtown,2:07,true
+233,"Volkman, Gottlieb and Heidenreich",Japanese,Expensive,Uptown,23:17,false
+234,"Bernhard, Lakin and Rogahn",Indian,Expensive,Midtown,14:36,true
+235,Nikolaus-O'Kon,That,Cheap,Uptown,6:49,true
+236,Hane Group,Korean,Expensive,Downtown,10:36,true
+237,Rath LLC,Italian,Expensive,Uptown,22:27,true
+238,Bernhard and Sons,Chinese,Expensive,Midtown,7:00,false
+239,O'Reilly Inc,American,Expensive,Downtown,19:29,true
+240,Kulas Group,Chinese,Cheap,Uptown,7:03,true
+241,"Stehr, Zieme and Dietrich",That,Cheap,Uptown,17:11,true
+242,Stroman-O'Conner,Korean,Medium,Midtown,1:25,false
+243,Auer-Roob,Italian,Cheap,Midtown,9:37,false
+244,"Wilkinson, Heidenreich and Hamill",Italian,Medium,Uptown,6:03,false
+245,Grimes-Lockman,Korean,Medium,Midtown,3:26,false
+246,Bernier-Baumbach,Japanese,Expensive,Uptown,19:54,false
+247,"Bergstrom, Kub and Braun",Indian,Medium,Uptown,0:14,false
+248,"Ritchie, Fisher and Rempel",Chinese,Expensive,Downtown,16:35,false
+249,Bartoletti LLC,Japanese,Expensive,Midtown,4:19,false
+250,"Balistreri, Keeling and Wolf",American,Medium,Midtown,7:30,true
+251,Ernser LLC,Italian,Cheap,Midtown,23:25,false
+252,Macejkovic-Abbott,French,Cheap,Midtown,1:48,true
+253,Walter Group,That,Medium,Midtown,23:02,false
+254,Bartoletti-Heathcote,Indian,Expensive,Midtown,14:52,true
+255,Kulas-Waters,Italian,Expensive,Midtown,10:07,true
+256,Schiller-McKenzie,Chinese,Cheap,Downtown,15:56,true
+257,"Hirthe, Upton and Glover",Chinese,Expensive,Midtown,4:24,true
+258,"Erdman, Gutmann and Jenkins",Chinese,Cheap,Downtown,8:55,false
+259,"Swaniawski, Tromp and Johnson",Chinese,Cheap,Downtown,17:05,true
+260,"Abshire, Schuppe and Predovic",Chinese,Expensive,Midtown,18:09,true
+261,Rutherford-Block,Chinese,Medium,Downtown,1:15,true
+262,Terry-Hammes,Italian,Expensive,Midtown,9:16,false
+263,Kassulke-Baumbach,American,Medium,Midtown,21:04,false
+264,Torphy-O'Connell,That,Expensive,Uptown,3:33,true
+265,Goyette-Becker,Japanese,Cheap,Uptown,21:30,true
+266,Pfannerstill-Hayes,Indian,Medium,Uptown,14:08,true
+267,Batz-Bergstrom,Indian,Cheap,Uptown,0:48,true
+268,Zemlak and Sons,Indian,Medium,Uptown,15:12,false
+269,Waters and Sons,That,Cheap,Midtown,19:47,false
+270,Deckow-Veum,Korean,Medium,Downtown,5:23,false
+271,Nikolaus Group,Indian,Medium,Midtown,14:42,true
+272,Dickens Group,Chinese,Cheap,Uptown,22:06,true
+273,Konopelski Inc,American,Expensive,Midtown,15:35,false
+274,"Ortiz, Heaney and Tremblay",American,Medium,Midtown,6:50,true
+275,"Brakus, Ruecker and Shields",Chinese,Expensive,Downtown,22:04,false
+276,"Leuschke, Little and Larkin",Chinese,Cheap,Downtown,5:17,true
+277,Marks Inc,French,Expensive,Downtown,3:04,false
+278,"Franecki, Ratke and Schmidt",Indian,Medium,Midtown,3:11,false
+279,Schoen Inc,American,Cheap,Uptown,8:45,false
+280,Klein Inc,Japanese,Cheap,Downtown,2:06,false
+281,Ebert and Sons,That,Medium,Downtown,22:43,false
+282,Cormier-Cremin,French,Medium,Midtown,5:26,false
+283,Hansen and Sons,Korean,Cheap,Midtown,6:29,false
+284,Orn Inc,Korean,Expensive,Midtown,9:20,false
+285,Treutel-Kreiger,French,Cheap,Downtown,5:07,true
+286,Torp-Herman,Italian,Medium,Downtown,0:03,true
+287,Glover-Ullrich,American,Medium,Downtown,7:42,true
+288,Boyer Group,French,Cheap,Uptown,17:59,true
+289,Ziemann Group,Chinese,Medium,Midtown,7:41,false
+290,Marks and Sons,Korean,Cheap,Uptown,9:47,true
+291,Fahey-Metz,Italian,Cheap,Midtown,10:10,true
+292,Crona Group,Chinese,Expensive,Midtown,19:57,true
+293,Moore-Turcotte,American,Expensive,Downtown,8:15,true
+294,Padberg-Kautzer,Indian,Cheap,Uptown,21:39,false
+295,"Funk, Kassulke and Lueilwitz",Japanese,Medium,Midtown,19:09,true
+296,Batz and Sons,Japanese,Expensive,Downtown,2:22,false
+297,Walter-Klocko,French,Medium,Midtown,22:52,true
+298,Anderson-Homenick,American,Expensive,Midtown,13:00,true
+299,Gleason and Sons,French,Medium,Midtown,4:24,false
+300,"Johnston, Ernser and Keebler",That,Medium,Uptown,19:28,false
+301,Franecki and Sons,French,Expensive,Downtown,9:52,true
+302,"Medhurst, Davis and Smitham",Korean,Medium,Downtown,13:00,false
+303,"Walsh, Torp and Fay",Korean,Cheap,Uptown,2:02,true
+304,Feil-Collins,Japanese,Expensive,Downtown,23:29,true
+305,"Ryan, Marquardt and Smith",Japanese,Medium,Downtown,18:37,true
+306,Gislason Group,Korean,Medium,Uptown,1:41,true
+307,Hilpert-Ziemann,Chinese,Expensive,Uptown,16:14,false
+308,Lesch-Schmidt,French,Medium,Uptown,7:55,true
+309,Moen LLC,Japanese,Expensive,Downtown,18:31,true
+310,Crooks-Bergnaum,Korean,Medium,Downtown,3:29,true
+311,"Turcotte, Tremblay and Kassulke",Italian,Cheap,Downtown,18:09,true
+312,Wintheiser-Braun,Korean,Expensive,Downtown,10:22,true
+313,Shanahan-Moore,Indian,Expensive,Uptown,3:47,false
+314,Raynor-Veum,That,Cheap,Uptown,14:16,true
+315,"Haag, Kutch and Simonis",Korean,Expensive,Downtown,17:17,false
+316,Bosco-Wehner,Japanese,Expensive,Uptown,5:00,false
+317,Dach LLC,Indian,Expensive,Midtown,16:12,true
+318,Bogan-Schultz,Indian,Medium,Midtown,19:03,true
+319,Kessler Group,French,Expensive,Downtown,10:09,true
+320,Tromp-Waters,Korean,Medium,Downtown,2:06,false
+321,Rath-Dibbert,Korean,Medium,Uptown,12:49,true
+322,"Schneider, Koelpin and Corkery",Korean,Medium,Downtown,23:22,true
+323,Willms-Tillman,Italian,Cheap,Uptown,20:18,true
+324,Bechtelar-Reilly,Chinese,Medium,Uptown,16:58,false
+325,"Sanford, Haag and O'Keefe",Chinese,Expensive,Uptown,17:36,true
+326,Ankunding-Zieme,French,Medium,Downtown,9:41,false
+327,Zieme-Beatty,Chinese,Medium,Downtown,22:19,true
+328,Hahn-Waters,Korean,Expensive,Uptown,10:14,false
+329,Wiegand-Bruen,French,Cheap,Uptown,1:31,false
+330,Schmeler and Sons,French,Expensive,Midtown,21:28,false
+331,Osinski Group,American,Cheap,Midtown,22:33,true
+332,Walsh-Torp,Indian,Cheap,Midtown,22:50,true
+333,Feeney-Batz,Indian,Expensive,Downtown,13:15,true
+334,"Keebler, White and Watsica",Japanese,Medium,Downtown,23:08,true
+335,Keeling-Marquardt,Chinese,Medium,Downtown,13:59,false
+336,"Wiegand, Leannon and Hirthe",Indian,Cheap,Midtown,16:36,true
+337,"Hilll, Abernathy and Lindgren",That,Cheap,Downtown,23:27,true
+338,Murphy and Sons,Korean,Cheap,Downtown,14:06,true
+339,Jacobi Inc,Italian,Expensive,Downtown,5:12,true
+340,"Cruickshank, Williamson and Cassin",Japanese,Cheap,Downtown,18:31,false
+341,Leffler Inc,French,Cheap,Uptown,7:34,true
+342,"Okuneva, Hirthe and Carroll",Chinese,Cheap,Downtown,3:07,false
+343,Spencer-Fisher,French,Medium,Uptown,23:52,true
+344,Kuphal-O'Kon,American,Medium,Downtown,6:38,true
+345,"Ryan, Stracke and Stiedemann",That,Expensive,Uptown,4:19,true
+346,Medhurst Group,That,Expensive,Uptown,20:51,false
+347,Johnston Inc,Chinese,Expensive,Uptown,10:56,true
+348,"Durgan, Bednar and Hermiston",That,Expensive,Downtown,22:18,true
+349,Bode LLC,American,Medium,Downtown,18:56,true
+350,Jakubowski-Schimmel,That,Expensive,Downtown,7:27,true
+351,Hilpert Inc,Chinese,Cheap,Midtown,12:06,false
+352,"Douglas, Becker and Sauer",Italian,Expensive,Midtown,18:12,true
+353,Jaskolski Inc,Japanese,Expensive,Downtown,10:34,false
+354,Bashirian LLC,Japanese,Expensive,Midtown,21:25,true
+355,McKenzie-Schinner,Korean,Expensive,Uptown,15:01,true
+356,"Paucek, Bergnaum and Lowe",Japanese,Cheap,Uptown,23:34,false
+357,Stoltenberg Group,Chinese,Medium,Midtown,21:42,true
+358,Rolfson-Reynolds,American,Medium,Midtown,16:23,true
+359,Donnelly and Sons,American,Medium,Midtown,17:10,false
+360,Labadie-Reichel,Korean,Medium,Uptown,23:00,true
+361,Blanda-Bins,That,Cheap,Midtown,18:26,true
+362,Emmerich LLC,Korean,Cheap,Midtown,10:21,true
+363,"McDermott, Koelpin and Corkery",Japanese,Cheap,Downtown,11:26,true
+364,Weissnat Inc,Italian,Expensive,Downtown,11:24,true
+365,Ledner-Lind,Korean,Expensive,Midtown,10:08,false
+366,Klocko Inc,Chinese,Cheap,Downtown,20:47,true
+367,Schumm and Sons,French,Cheap,Downtown,11:13,false
+368,Spinka Group,Indian,Cheap,Downtown,4:34,false
+369,Casper and Sons,Italian,Expensive,Midtown,13:27,true
+370,"Hoppe, Brakus and Mosciski",That,Medium,Downtown,2:26,false
+371,Dietrich LLC,Korean,Expensive,Midtown,16:14,false
+372,"Cole, Cummings and Dickens",Chinese,Cheap,Downtown,0:21,false
+373,"Schowalter, Roberts and Hoeger",Japanese,Medium,Uptown,0:43,false
+374,Anderson Group,Italian,Cheap,Downtown,8:16,false
+375,Dibbert LLC,American,Expensive,Uptown,3:25,true
+376,"Barton, Ebert and Hoeger",French,Expensive,Midtown,9:48,false
+377,Nikolaus Group,French,Medium,Downtown,9:41,false
+378,"Fritsch, Emard and West",Italian,Expensive,Uptown,23:37,true
+379,Yundt and Sons,Japanese,Medium,Downtown,16:17,false
+380,"Denesik, Kuhic and Sporer",That,Cheap,Midtown,6:52,false
+381,Heidenreich-Harvey,Korean,Expensive,Midtown,20:49,true
+382,Runolfsson-Frami,Chinese,Cheap,Midtown,20:26,true
+383,Kassulke LLC,Indian,Cheap,Downtown,11:13,true
+384,"Rau, Schumm and Harber",American,Cheap,Uptown,10:47,true
+385,"Lesch, Hoppe and Kuhic",Indian,Cheap,Uptown,2:56,false
+386,Leffler Group,Italian,Expensive,Downtown,17:41,false
+387,O'Hara and Sons,Japanese,Cheap,Midtown,3:22,false
+388,Schimmel Group,American,Cheap,Midtown,5:35,false
+389,Langosh Group,Indian,Cheap,Midtown,18:48,true
+390,"Gusikowski, Zieme and Gerlach",Chinese,Expensive,Uptown,0:10,false
+391,Smith-Kessler,Chinese,Cheap,Uptown,9:28,true
+392,"Harber, McGlynn and Conroy",Chinese,Medium,Midtown,11:53,true
+393,Bogan-Kilback,American,Cheap,Midtown,6:29,false
+394,Hoppe and Sons,American,Medium,Uptown,1:22,true
+395,"Rodriguez, MacGyver and Von",That,Expensive,Midtown,15:39,false
+396,"Leffler, Satterfield and Boehm",Chinese,Expensive,Midtown,20:30,true
+397,"Kub, Price and Fritsch",Korean,Cheap,Midtown,6:14,true
+398,Pfannerstill and Sons,That,Cheap,Uptown,2:04,true
+399,Becker and Sons,Chinese,Expensive,Downtown,17:00,true
+400,Gibson-Conroy,Indian,Cheap,Uptown,5:39,true
+401,D'Amore and Sons,That,Medium,Uptown,19:59,false
+402,"Klein, Schowalter and Heidenreich",That,Cheap,Uptown,1:32,false
+403,Fay and Sons,American,Cheap,Downtown,20:31,false
+404,"Medhurst, Oberbrunner and Rogahn",Italian,Cheap,Midtown,9:56,true
+405,VonRueden LLC,Korean,Medium,Midtown,21:04,true
+406,"Padberg, Boyer and Brekke",Japanese,Cheap,Downtown,5:08,true
+407,Skiles LLC,Japanese,Cheap,Uptown,9:36,true
+408,Kohler-Leffler,American,Expensive,Downtown,12:32,false
+409,Stanton Group,French,Medium,Midtown,10:00,true
+410,Medhurst Inc,Indian,Medium,Midtown,15:25,true
+411,"Swaniawski, Schroeder and Prohaska",Chinese,Expensive,Uptown,13:20,true
+412,"Bayer, Thompson and Metz",Chinese,Medium,Downtown,11:03,false
+413,"Kozey, Stark and Rodriguez",Chinese,Cheap,Midtown,0:58,false
+414,Price Inc,Korean,Medium,Downtown,15:09,false
+415,Wisozk LLC,Chinese,Medium,Midtown,6:35,false
+416,"Lebsack, Hessel and Volkman",American,Cheap,Downtown,18:21,true
+417,Bruen LLC,Japanese,Medium,Downtown,10:16,true
+418,Schmidt-Bosco,Chinese,Medium,Uptown,3:21,true
+419,Funk-Little,Chinese,Expensive,Uptown,3:53,true
+420,Kautzer-Gottlieb,Chinese,Cheap,Midtown,2:03,true
+421,"Anderson, Renner and Weimann",Korean,Medium,Midtown,15:15,true
+422,Beer-Swift,Italian,Expensive,Downtown,14:44,true
+423,"Walker, Abernathy and Zieme",American,Medium,Uptown,4:00,true
+424,Doyle-Ward,Japanese,Medium,Uptown,22:50,false
+425,"Hermann, Kshlerin and Corwin",That,Cheap,Downtown,23:39,true
+426,"Graham, Dare and Hodkiewicz",French,Medium,Midtown,20:13,false
+427,"Schmidt, Vandervort and McKenzie",Chinese,Expensive,Midtown,15:38,false
+428,Ernser LLC,That,Expensive,Downtown,20:56,false
+429,McKenzie Inc,Korean,Expensive,Uptown,4:10,true
+430,Jacobs LLC,American,Expensive,Midtown,15:51,false
+431,Bailey-Rath,Indian,Medium,Downtown,11:40,false
+432,Lubowitz-Towne,Korean,Expensive,Midtown,8:58,false
+433,Stracke and Sons,Italian,Cheap,Downtown,17:52,false
+434,"Feest, VonRueden and Baumbach",Indian,Expensive,Uptown,5:29,false
+435,Koss-Thiel,Korean,Medium,Uptown,12:57,false
+436,Williamson-Botsford,Italian,Expensive,Downtown,7:08,false
+437,Shields and Sons,Indian,Cheap,Downtown,11:41,false
+438,"Lehner, Heidenreich and Ferry",Italian,Cheap,Midtown,23:13,false
+439,Legros-Lockman,Italian,Expensive,Midtown,21:24,false
+440,Cummerata LLC,Chinese,Cheap,Midtown,5:25,true
+441,Casper-Heidenreich,Italian,Medium,Uptown,17:20,true
+442,"Kuhic, Stehr and Feil",French,Expensive,Midtown,6:13,false
+443,Gislason and Sons,French,Cheap,Uptown,15:00,true
+444,Schroeder Inc,Italian,Expensive,Midtown,15:30,false
+445,Kessler LLC,Korean,Medium,Uptown,18:45,true
+446,"Orn, Hayes and Satterfield",Korean,Medium,Downtown,14:27,true
+447,Shields-Cronin,Indian,Medium,Downtown,3:12,true
+448,Oberbrunner-Haley,French,Expensive,Uptown,12:54,true
+449,"Murazik, Maggio and Rodriguez",French,Cheap,Midtown,6:34,true
+450,Rippin-Kassulke,Italian,Expensive,Downtown,1:51,true
+451,Luettgen LLC,American,Expensive,Midtown,1:48,true
+452,"Kutch, Vandervort and Denesik",Indian,Medium,Uptown,4:28,false
+453,"Cole, Tillman and Klein",Indian,Expensive,Midtown,18:40,false
+454,Batz LLC,Korean,Expensive,Uptown,22:24,true
+455,Jenkins Group,Chinese,Expensive,Uptown,4:35,true
+456,Jakubowski-Wisozk,Japanese,Cheap,Midtown,16:02,true
+457,"Streich, Tromp and Wiza",That,Expensive,Uptown,7:19,true
+458,West and Sons,Korean,Expensive,Downtown,8:01,false
+459,Hansen-Robel,French,Medium,Midtown,18:16,false
+460,Predovic-MacGyver,French,Medium,Uptown,19:06,true
+461,Marks-Monahan,American,Cheap,Uptown,0:39,false
+462,"Schoen, Larson and Bahringer",Japanese,Medium,Uptown,15:25,false
+463,Sporer LLC,French,Expensive,Midtown,3:02,false
+464,Tremblay Inc,Italian,Cheap,Downtown,14:27,false
+465,Smitham-Borer,Korean,Cheap,Downtown,10:14,true
+466,Grady and Sons,Chinese,Expensive,Downtown,5:25,false
+467,"Reichert, Wiza and Dare",Japanese,Cheap,Midtown,10:47,true
+468,Blanda-O'Conner,Korean,Cheap,Midtown,16:29,true
+469,"Graham, Toy and Sawayn",American,Expensive,Downtown,4:07,true
+470,"Fritsch, Homenick and Denesik",French,Expensive,Uptown,15:01,false
+471,Marquardt and Sons,American,Medium,Midtown,14:05,false
+472,Reichert Group,French,Expensive,Uptown,7:55,true
+473,"Haag, Reichel and Gutkowski",Indian,Medium,Downtown,7:05,false
+474,Kreiger-King,American,Medium,Midtown,6:48,true
+475,Howe and Sons,American,Expensive,Uptown,14:21,false
+476,King-Wiegand,That,Expensive,Downtown,5:09,false
+477,Cole-Thompson,Italian,Expensive,Downtown,21:11,false
+478,"Runolfsson, Sipes and Dare",That,Expensive,Uptown,22:10,false
+479,"Schmidt, Williamson and Tromp",Chinese,Medium,Midtown,9:18,false
+480,Labadie Group,Korean,Medium,Downtown,21:13,true
+481,Krajcik-Gottlieb,Korean,Expensive,Midtown,6:43,false
+482,Dietrich Inc,Italian,Medium,Midtown,19:25,true
+483,Rolfson-Mills,Chinese,Expensive,Midtown,23:16,true
+484,Prohaska-Kautzer,American,Expensive,Uptown,4:35,false
+485,Pouros-Wilkinson,Japanese,Medium,Midtown,22:04,true
+486,Lesch-Streich,Italian,Medium,Downtown,0:11,true
+487,"Muller, D'Amore and Krajcik",Japanese,Expensive,Uptown,18:48,true
+488,Ankunding-Halvorson,That,Cheap,Uptown,14:54,true
+489,McDermott-Nienow,American,Medium,Midtown,21:56,false
+490,"Crooks, Ward and Reichel",American,Medium,Uptown,3:09,true
+491,Adams-Daugherty,Indian,Expensive,Uptown,0:10,false
+492,"Yundt, Adams and Bradtke",Japanese,Expensive,Downtown,23:29,true
+493,"Hahn, Ullrich and Wintheiser",That,Medium,Uptown,17:17,false
+494,Hegmann-Kreiger,French,Medium,Downtown,4:26,true
+495,Kautzer LLC,American,Medium,Downtown,20:32,false
+496,"Cole, Effertz and Renner",American,Medium,Downtown,4:35,true
+497,"Terry, Hansen and Nikolaus",That,Expensive,Midtown,20:55,true
+498,"Reynolds, Adams and Osinski",Japanese,Expensive,Downtown,16:02,true
+499,"Deckow, Corkery and Volkman",Italian,Cheap,Downtown,22:50,false
+500,Haley Group,French,Medium,Downtown,1:01,false
+501,Rolfson-Considine,Japanese,Cheap,Uptown,20:07,true
+502,Ryan Inc,Chinese,Expensive,Uptown,21:37,true
+503,"Crooks, Little and O'Keefe",Chinese,Expensive,Midtown,6:29,false
+504,Sporer-Olson,Korean,Cheap,Uptown,0:25,false
+505,Mueller-Casper,Korean,Cheap,Midtown,18:46,false
+506,Breitenberg and Sons,Indian,Cheap,Uptown,6:55,true
+507,"Thompson, Monahan and Hickle",American,Expensive,Uptown,11:49,false
+508,Batz Group,Italian,Expensive,Downtown,3:14,false
+509,"Mayert, Lindgren and Cummerata",American,Cheap,Midtown,14:05,false
+510,"Ledner, Mueller and Nienow",Japanese,Cheap,Midtown,11:58,false
+511,Tremblay-Veum,French,Cheap,Midtown,14:17,false
+512,Cronin-O'Reilly,Chinese,Medium,Uptown,23:44,false
+513,"Simonis, Considine and Orn",Korean,Cheap,Downtown,17:10,true
+514,Bednar and Sons,That,Expensive,Uptown,21:11,false
+515,Johnson-Mann,Japanese,Expensive,Midtown,8:34,true
+516,"Abbott, Schmitt and Dach",French,Cheap,Midtown,13:52,false
+517,Bergstrom-Kohler,That,Expensive,Uptown,9:32,false
+518,Ebert-Boyer,American,Expensive,Downtown,13:32,false
+519,Kessler LLC,That,Expensive,Midtown,11:42,true
+520,Jacobs Group,Chinese,Cheap,Uptown,19:09,true
+521,"Hamill, Brekke and Purdy",Italian,Medium,Downtown,2:32,false
+522,"Treutel, Quigley and Dickens",Chinese,Expensive,Downtown,8:29,true
+523,Herman and Sons,Italian,Medium,Midtown,17:06,false
+524,Bins-Sporer,Indian,Expensive,Uptown,12:54,false
+525,"Schaefer, Gutkowski and Durgan",That,Expensive,Uptown,2:06,true
+526,"Daugherty, Erdman and Hermann",American,Medium,Uptown,18:35,false
+527,"Yundt, Nader and Jones",Chinese,Medium,Uptown,13:53,true
+528,"Murphy, Conroy and Hintz",That,Cheap,Uptown,13:22,true
+529,Windler-Thompson,Italian,Cheap,Downtown,2:03,false
+530,"Gleason, Morar and Schaefer",That,Expensive,Midtown,13:56,true
+531,Collins Group,Japanese,Cheap,Uptown,7:41,false
+532,"Lang, Blanda and Emard",Indian,Expensive,Midtown,6:59,true
+533,Kemmer-Abernathy,American,Medium,Downtown,19:59,true
+534,Schimmel-Price,Italian,Medium,Uptown,7:18,true
+535,Torphy Group,French,Cheap,Midtown,0:49,false
+536,Shanahan Group,Italian,Cheap,Midtown,7:08,false
+537,Denesik and Sons,Chinese,Medium,Midtown,5:42,false
+538,"King, Buckridge and Corwin",American,Medium,Downtown,12:58,false
+539,Jakubowski Inc,French,Expensive,Downtown,12:29,true
+540,"Block, Lynch and Parker",Italian,Expensive,Uptown,22:08,true
+541,Cronin Inc,Korean,Medium,Downtown,13:50,false
+542,"Toy, Lang and Mraz",Chinese,Cheap,Downtown,20:42,true
+543,Nitzsche LLC,American,Medium,Downtown,7:49,false
+544,"Herman, Volkman and Will",Italian,Expensive,Midtown,7:53,true
+545,Murphy-O'Connell,Italian,Cheap,Midtown,9:45,false
+546,Kozey and Sons,Japanese,Medium,Midtown,21:21,false
+547,"Kutch, Fritsch and Fritsch",French,Cheap,Downtown,6:31,false
+548,Smitham-MacGyver,Italian,Medium,Midtown,1:52,true
+549,Barrows-Marvin,Korean,Expensive,Uptown,4:47,true
+550,Wolf-Dooley,That,Medium,Midtown,1:15,true
+551,Gibson Group,French,Expensive,Uptown,22:43,true
+552,Baumbach Inc,Italian,Medium,Midtown,8:12,true
+553,"Okuneva, Smitham and Huel",Korean,Expensive,Midtown,8:53,false
+554,"Reichel, Gleason and Ebert",American,Medium,Downtown,12:00,false
+555,Murazik-Jerde,French,Expensive,Uptown,11:48,false
+556,Stark-Streich,Italian,Medium,Midtown,12:26,true
+557,"Daugherty, Kshlerin and Robel",American,Medium,Uptown,1:18,true
+558,"Abbott, Douglas and Turcotte",Indian,Medium,Midtown,7:04,false
+559,Franecki and Sons,French,Medium,Uptown,23:58,true
+560,Effertz-Schultz,Korean,Expensive,Uptown,16:41,true
+561,"Boyle, Davis and Gusikowski",Japanese,Cheap,Uptown,20:51,true
+562,Lehner and Sons,That,Cheap,Downtown,11:53,false
+563,Lakin-Funk,American,Medium,Uptown,7:02,true
+564,Lemke Inc,Korean,Cheap,Midtown,1:54,false
+565,"Rau, Kilback and Gorczany",Japanese,Medium,Midtown,18:11,false
+566,Schaden LLC,American,Expensive,Midtown,2:40,false
+567,"Kris, Schuster and Tillman",That,Medium,Downtown,4:15,false
+568,Medhurst-Watsica,Japanese,Medium,Midtown,2:14,false
+569,"Cummerata, Dietrich and Adams",Japanese,Medium,Uptown,16:46,false
+570,Osinski-Okuneva,Indian,Medium,Uptown,21:53,false
+571,Skiles-Breitenberg,Chinese,Expensive,Downtown,20:11,true
+572,Bogisich Group,That,Cheap,Midtown,17:09,true
+573,Romaguera Inc,Indian,Expensive,Downtown,4:39,false
+574,Mohr Inc,Japanese,Cheap,Midtown,18:18,false
+575,"Kirlin, Pollich and Reynolds",Indian,Expensive,Uptown,5:56,false
+576,Hermann-Willms,French,Cheap,Uptown,6:22,false
+577,Orn-Armstrong,That,Medium,Midtown,7:18,true
+578,Lehner Group,That,Cheap,Downtown,0:37,true
+579,Gottlieb and Sons,That,Expensive,Uptown,10:20,true
+580,Lindgren LLC,That,Expensive,Uptown,21:30,false
+581,Upton-Halvorson,Chinese,Expensive,Midtown,17:01,true
+582,Kulas-Emard,Indian,Expensive,Uptown,1:47,true
+583,Kirlin and Sons,Chinese,Medium,Downtown,6:36,false
+584,"Ziemann, Herman and Fisher",Indian,Cheap,Downtown,11:38,true
+585,Bode-Gorczany,Korean,Medium,Downtown,18:36,true
+586,Stroman Group,Korean,Medium,Uptown,14:57,true
+587,Rogahn LLC,French,Expensive,Midtown,13:23,true
+588,Kutch Group,Korean,Medium,Downtown,14:38,true
+589,"Sporer, Beatty and Bode",Korean,Medium,Uptown,15:39,false
+590,Funk-Herman,Chinese,Expensive,Uptown,10:45,true
+591,Sipes-Johnston,French,Cheap,Uptown,22:32,false
+592,Vandervort-McClure,Chinese,Cheap,Uptown,3:08,true
+593,"Haag, Hyatt and Hickle",Chinese,Expensive,Uptown,14:20,true
+594,Fadel and Sons,That,Medium,Midtown,8:12,true
+595,Kuhic LLC,French,Cheap,Midtown,0:15,true
+596,Ratke LLC,Chinese,Medium,Uptown,8:40,false
+597,Grimes-Roob,Korean,Cheap,Midtown,21:21,true
+598,Farrell-Lebsack,Korean,Medium,Downtown,1:09,true
+599,Gusikowski LLC,Indian,Cheap,Downtown,4:36,true
+600,Lueilwitz-Jones,That,Cheap,Downtown,14:55,false
+601,Miller-Douglas,French,Cheap,Midtown,12:48,true
+602,Botsford Group,American,Medium,Midtown,6:30,false
+603,Mohr-Hegmann,That,Medium,Midtown,18:13,false
+604,Bartell-Nader,Japanese,Medium,Midtown,0:04,true
+605,"Keebler, O'Reilly and Will",Chinese,Cheap,Downtown,22:55,false
+606,Ryan Group,Indian,Medium,Uptown,9:17,false
+607,Marvin-Hermann,That,Cheap,Downtown,23:09,true
+608,Effertz Group,Japanese,Medium,Downtown,8:23,false
+609,"Barton, Stanton and Murray",Japanese,Expensive,Midtown,7:45,false
+610,Kuhic-Conroy,Indian,Medium,Uptown,18:46,false
+611,Kunde Group,Indian,Cheap,Uptown,4:36,true
+612,Terry-Frami,French,Medium,Uptown,21:02,false
+613,"Hermann, Feest and Hodkiewicz",Italian,Medium,Uptown,0:09,false
+614,Lebsack-Stroman,Chinese,Expensive,Downtown,0:21,true
+615,Barrows Group,Italian,Cheap,Downtown,17:42,true
+616,Batz Group,That,Medium,Uptown,5:08,false
+617,Strosin and Sons,Italian,Expensive,Downtown,12:22,false
+618,Waters Inc,Italian,Expensive,Midtown,14:34,false
+619,"Cremin, Hagenes and Spinka",Italian,Expensive,Downtown,8:38,true
+620,"Koss, Will and Dickinson",Japanese,Expensive,Uptown,10:14,true
+621,Keeling LLC,Chinese,Medium,Midtown,5:11,true
+622,Boyle-O'Reilly,Chinese,Medium,Downtown,3:29,true
+623,Rohan-Bartoletti,Korean,Medium,Downtown,2:04,true
+624,Conroy-Schiller,Japanese,Cheap,Uptown,17:48,true
+625,Hagenes-Cassin,French,Expensive,Midtown,23:13,false
+626,Dibbert-Feest,Japanese,Cheap,Uptown,15:12,false
+627,Dicki-Bergnaum,That,Expensive,Midtown,9:25,false
+628,Hoeger Inc,Japanese,Cheap,Downtown,10:07,true
+629,Dietrich Inc,Korean,Medium,Uptown,19:52,true
+630,"Cormier, Ankunding and Shanahan",Chinese,Expensive,Downtown,13:57,true
+631,"Hand, Abshire and Herzog",Indian,Expensive,Downtown,18:29,false
+632,Dach and Sons,Chinese,Cheap,Midtown,4:53,true
+633,Schmitt-McDermott,Indian,Cheap,Uptown,1:47,false
+634,Beier and Sons,Korean,Cheap,Midtown,18:28,true
+635,"Lehner, Lemke and Stanton",American,Medium,Uptown,9:09,false
+636,"Hauck, Lang and Feest",French,Cheap,Downtown,5:51,false
+637,Heidenreich-Farrell,Korean,Cheap,Downtown,17:16,true
+638,"Jast, Sipes and Gusikowski",American,Cheap,Midtown,4:13,true
+639,Thompson-Hackett,Korean,Medium,Midtown,11:13,false
+640,Balistreri Group,Italian,Cheap,Uptown,8:14,true
+641,"Reinger, Dicki and Spinka",French,Medium,Uptown,3:04,true
+642,Kutch-Buckridge,Korean,Cheap,Downtown,18:47,true
+643,"Crist, Huel and Wolff",That,Medium,Downtown,1:21,false
+644,"Funk, Reichel and Rutherford",That,Expensive,Midtown,8:42,true
+645,"Barton, Larkin and Conroy",Japanese,Expensive,Downtown,10:55,true
+646,Ritchie and Sons,Indian,Cheap,Downtown,15:35,true
+647,Yost Group,Korean,Cheap,Midtown,16:31,true
+648,"Reynolds, Ledner and Schuppe",Japanese,Expensive,Uptown,15:06,false
+649,"Lockman, Glover and Auer",Chinese,Medium,Downtown,4:40,false
+650,Cormier Inc,Indian,Medium,Downtown,21:25,false
+651,Kohler-Konopelski,Indian,Cheap,Uptown,4:30,true
+652,Treutel-Wisoky,Chinese,Expensive,Midtown,19:57,true
+653,"Green, Morar and Champlin",American,Medium,Uptown,15:06,true
+654,Medhurst Group,Italian,Medium,Midtown,20:11,false
+655,Rowe-Jacobi,Italian,Cheap,Downtown,3:18,true
+656,Gislason-Bradtke,Chinese,Medium,Downtown,21:11,true
+657,"Connelly, Ziemann and Hane",French,Cheap,Uptown,0:46,false
+658,Senger-Kozey,That,Cheap,Midtown,5:55,true
+659,Rodriguez and Sons,French,Expensive,Uptown,22:57,true
+660,Weimann-Zulauf,Chinese,Cheap,Downtown,3:07,true
+661,Torp-Witting,Japanese,Medium,Midtown,0:03,false
+662,Bernier Group,Italian,Expensive,Downtown,21:58,true
+663,Weber Group,Korean,Medium,Uptown,21:17,false
+664,"Heathcote, Wyman and Grimes",Chinese,Medium,Midtown,22:24,true
+665,Flatley-Mosciski,American,Expensive,Midtown,22:26,true
+666,"Ruecker, Graham and Olson",French,Expensive,Downtown,15:17,true
+667,"Walsh, Flatley and Block",Italian,Medium,Uptown,7:43,true
+668,VonRueden and Sons,Chinese,Medium,Downtown,9:13,false
+669,Jacobson Group,Chinese,Medium,Midtown,15:14,true
+670,Simonis Inc,Indian,Expensive,Midtown,14:54,false
+671,Heidenreich-Rau,Korean,Cheap,Uptown,17:21,false
+672,Mraz-Gerhold,Italian,Expensive,Uptown,15:19,false
+673,Kiehn LLC,Indian,Expensive,Uptown,10:27,false
+674,Kerluke-Hyatt,American,Cheap,Midtown,3:55,false
+675,Howell and Sons,That,Expensive,Uptown,19:15,false
+676,Schiller-Hackett,Japanese,Medium,Midtown,8:23,true
+677,"Okuneva, Hudson and Schiller",That,Cheap,Uptown,15:49,true
+678,Sporer-D'Amore,That,Expensive,Downtown,11:47,false
+679,Jacobs-Dickinson,French,Cheap,Uptown,17:12,true
+680,"Rowe, Dach and Bergnaum",Indian,Expensive,Midtown,12:21,false
+681,Schinner-Dooley,Chinese,Cheap,Midtown,20:35,false
+682,Rohan-Kuhn,Italian,Cheap,Midtown,20:36,true
+683,"Bechtelar, Hilll and Batz",Japanese,Expensive,Uptown,22:50,false
+684,Kertzmann Inc,That,Cheap,Midtown,11:51,true
+685,Abernathy-Mueller,Indian,Cheap,Downtown,23:03,false
+686,Marquardt Group,Chinese,Expensive,Midtown,5:09,true
+687,Rice-Skiles,American,Expensive,Midtown,6:53,false
+688,Thiel Group,That,Medium,Midtown,14:21,true
+689,Schowalter-Pfannerstill,That,Medium,Uptown,17:45,false
+690,Tillman-Terry,That,Expensive,Uptown,21:10,false
+691,Stoltenberg-Marquardt,French,Cheap,Uptown,5:39,false
+692,Gottlieb LLC,Indian,Expensive,Midtown,18:09,true
+693,"Swift, Sauer and Rogahn",Chinese,Expensive,Downtown,13:25,true
+694,Will-Hettinger,Korean,Expensive,Uptown,21:35,false
+695,Grant LLC,American,Expensive,Midtown,20:59,false
+696,Gutkowski LLC,Japanese,Cheap,Midtown,22:52,false
+697,Beer LLC,French,Expensive,Downtown,3:59,true
+698,Mueller Inc,Japanese,Expensive,Downtown,12:32,true
+699,Boyer-Rempel,Chinese,Cheap,Downtown,16:24,true
+700,"Hilpert, Schroeder and Rau",American,Cheap,Uptown,19:35,true
+701,"Weissnat, Rutherford and Cronin",Japanese,Expensive,Uptown,7:44,true
+702,Metz Inc,American,Medium,Midtown,2:02,true
+703,Weimann and Sons,Italian,Cheap,Midtown,12:10,true
+704,Ruecker Group,Korean,Cheap,Uptown,2:00,false
+705,Schulist Group,Chinese,Cheap,Uptown,7:32,true
+706,Luettgen Inc,Italian,Medium,Downtown,12:08,true
+707,Gulgowski LLC,American,Medium,Uptown,2:06,false
+708,Prosacco-Bahringer,Chinese,Expensive,Downtown,22:23,true
+709,Becker Inc,That,Medium,Midtown,16:31,true
+710,"Cummings, Stark and Trantow",French,Cheap,Uptown,19:47,true
+711,"Cartwright, Ullrich and Dickinson",Italian,Expensive,Uptown,12:21,false
+712,Okuneva Group,Korean,Expensive,Midtown,5:49,true
+713,Jones Inc,Japanese,Cheap,Midtown,10:17,true
+714,Strosin Group,Chinese,Expensive,Midtown,5:39,false
+715,"Fahey, Bergstrom and Smitham",Chinese,Expensive,Downtown,11:02,true
+716,"Lubowitz, Labadie and Gusikowski",Indian,Expensive,Downtown,22:47,false
+717,Luettgen and Sons,Italian,Expensive,Uptown,7:29,true
+718,Hoeger-Dare,French,Cheap,Midtown,18:46,false
+719,"VonRueden, Wolf and McKenzie",Indian,Cheap,Downtown,13:19,true
+720,"Simonis, Kohler and Cronin",French,Expensive,Uptown,18:38,true
+721,"Wisoky, Wiegand and Schuster",Chinese,Medium,Downtown,23:09,true
+722,Murazik Group,That,Cheap,Uptown,4:10,false
+723,"Yundt, Abbott and Ryan",Chinese,Cheap,Uptown,9:13,false
+724,Ortiz Group,That,Medium,Uptown,17:45,false
+725,Crooks Group,Indian,Expensive,Downtown,5:57,false
+726,Howe-O'Hara,Japanese,Expensive,Midtown,19:35,true
+727,Labadie-O'Connell,Chinese,Medium,Downtown,14:54,false
+728,Leuschke-Macejkovic,Indian,Expensive,Uptown,21:50,true
+729,Paucek-Johnston,Korean,Medium,Downtown,12:36,true
+730,Glover and Sons,Italian,Cheap,Uptown,17:13,true
+731,"Kiehn, Williamson and Harber",Korean,Medium,Downtown,7:00,true
+732,Russel-Quigley,Indian,Cheap,Midtown,17:52,false
+733,Daniel-Ondricka,Korean,Expensive,Downtown,23:07,true
+734,"Skiles, Flatley and Effertz",Chinese,Cheap,Uptown,21:17,false
+735,Rath-Koelpin,American,Expensive,Downtown,15:31,false
+736,Jenkins and Sons,Japanese,Medium,Midtown,23:17,true
+737,Collier Inc,Korean,Medium,Midtown,23:43,true
+738,Gleason-Frami,Italian,Expensive,Uptown,10:15,true
+739,Dach Inc,French,Medium,Uptown,5:25,false
+740,Schmeler-Langworth,Italian,Expensive,Downtown,23:30,false
+741,"Legros, Johnson and Williamson",Korean,Expensive,Downtown,1:11,false
+742,Zulauf LLC,Chinese,Expensive,Uptown,17:43,true
+743,"Carter, Olson and Abshire",That,Expensive,Midtown,21:00,true
+744,Bartell-Jast,Italian,Expensive,Downtown,3:34,true
+745,Rodriguez Inc,That,Cheap,Downtown,1:01,false
+746,Torp Inc,Japanese,Expensive,Midtown,20:07,false
+747,Kautzer LLC,Korean,Medium,Downtown,17:05,false
+748,Lakin-O'Keefe,Japanese,Cheap,Downtown,4:44,true
+749,Mayert LLC,Chinese,Cheap,Downtown,13:34,true
+750,Abshire LLC,French,Expensive,Downtown,20:02,false
+751,"Simonis, Thiel and McKenzie",French,Medium,Uptown,14:54,true
+752,Tromp-Larson,American,Medium,Uptown,9:33,false
+753,Schuster LLC,Chinese,Expensive,Uptown,17:47,false
+754,Moore-Bogisich,Korean,Expensive,Uptown,19:45,true
+755,"Ziemann, Ullrich and Hermiston",American,Cheap,Midtown,17:16,true
+756,"Rice, Sauer and Schuster",That,Expensive,Midtown,5:51,true
+757,Powlowski Group,Italian,Expensive,Uptown,21:33,true
+758,Veum and Sons,That,Expensive,Midtown,13:12,true
+759,"Toy, Graham and Anderson",French,Cheap,Uptown,20:04,true
+760,"Schuppe, Ryan and Miller",American,Medium,Downtown,7:06,true
+761,"Schuster, Flatley and Wiza",Korean,Expensive,Downtown,4:15,true
+762,"Padberg, Gleason and Hyatt",French,Cheap,Uptown,18:02,false
+763,Jenkins-Schuster,American,Expensive,Uptown,19:35,false
+764,Crona LLC,American,Cheap,Downtown,9:25,false
+765,"Kunze, Schmitt and Leffler",Japanese,Medium,Midtown,3:38,true
+766,"Little, Reichert and Gislason",Chinese,Expensive,Uptown,5:25,true
+767,Gulgowski Group,French,Expensive,Uptown,17:18,true
+768,"Stanton, Thompson and Bins",Chinese,Expensive,Downtown,14:05,true
+769,"Bashirian, Farrell and Koch",French,Cheap,Midtown,5:40,true
+770,Cummings Group,Japanese,Medium,Downtown,14:55,false
+771,Wintheiser-Rutherford,Chinese,Medium,Uptown,7:47,true
+772,Satterfield-Bartell,Italian,Medium,Uptown,2:54,true
+773,Nicolas-Schumm,Japanese,Expensive,Midtown,13:12,false
+774,"Batz, Pfeffer and Haley",Chinese,Medium,Downtown,22:47,true
+775,Stehr-Parisian,French,Medium,Uptown,15:44,false
+776,"Sanford, Abshire and Watsica",Chinese,Medium,Uptown,9:29,false
+777,"Corwin, Mante and Kassulke",Korean,Expensive,Midtown,16:36,false
+778,Powlowski Inc,Italian,Medium,Downtown,23:23,true
+779,Casper-Corkery,American,Cheap,Downtown,9:01,true
+780,"Braun, Schaden and Medhurst",Chinese,Cheap,Uptown,5:54,true
+781,Schiller and Sons,That,Expensive,Uptown,3:11,true
+782,Predovic Group,French,Expensive,Uptown,2:34,false
+783,Keeling-Ratke,Japanese,Medium,Midtown,17:47,true
+784,Mertz-Grant,American,Expensive,Uptown,12:20,false
+785,Von-Ruecker,Korean,Medium,Uptown,11:27,true
+786,Friesen-Torp,Italian,Expensive,Uptown,10:09,true
+787,Kerluke and Sons,Korean,Medium,Uptown,11:55,false
+788,Mayer-Emard,Japanese,Cheap,Uptown,0:30,false
+789,Harber and Sons,American,Medium,Midtown,15:28,false
+790,Prosacco-Hodkiewicz,Korean,Cheap,Midtown,17:50,true
+791,Marquardt-Klocko,American,Expensive,Uptown,11:09,true
+792,Wyman-King,Italian,Cheap,Midtown,16:00,false
+793,"Murray, Feeney and King",French,Medium,Uptown,5:26,false
+794,"Rohan, Cassin and Fay",Indian,Medium,Downtown,14:14,false
+795,Bahringer and Sons,Italian,Expensive,Midtown,9:57,false
+796,Schiller Inc,French,Expensive,Midtown,0:05,false
+797,Hermiston Group,Korean,Medium,Midtown,21:33,false
+798,O'Kon-Hilpert,Italian,Medium,Midtown,4:21,false
+799,Franecki-Denesik,Italian,Expensive,Downtown,0:34,false
+800,Satterfield-Williamson,Korean,Expensive,Midtown,19:52,true
+801,Miller and Sons,French,Cheap,Uptown,23:58,true
+802,Nader Inc,French,Medium,Midtown,7:52,false
+803,Schimmel-Grant,French,Cheap,Downtown,9:38,false
+804,Prosacco-Bernhard,That,Medium,Downtown,13:30,false
+805,"Moore, Witting and Boyle",Chinese,Cheap,Downtown,14:49,true
+806,Runte and Sons,French,Expensive,Midtown,10:28,true
+807,"Howe, Kreiger and Okuneva",Korean,Medium,Uptown,4:39,true
+808,Gottlieb-Yundt,Indian,Cheap,Midtown,7:14,false
+809,Kub-Ortiz,Chinese,Medium,Downtown,23:03,true
+810,McDermott Group,Italian,Cheap,Midtown,5:45,true
+811,O'Connell-Kulas,Chinese,Expensive,Downtown,4:05,false
+812,Hyatt Group,Japanese,Medium,Uptown,14:55,true
+813,Price-Klein,That,Cheap,Uptown,12:40,true
+814,Stehr and Sons,Italian,Medium,Uptown,0:09,true
+815,Cummings Group,Indian,Cheap,Midtown,18:01,true
+816,Collins and Sons,Japanese,Cheap,Midtown,21:30,false
+817,Runte and Sons,French,Cheap,Uptown,10:13,false
+818,Bailey-Schuppe,Korean,Medium,Uptown,13:35,true
+819,Donnelly-Legros,Italian,Cheap,Uptown,12:36,true
+820,Ritchie Group,French,Expensive,Downtown,3:07,false
+821,Hahn-Connelly,French,Cheap,Uptown,0:34,false
+822,Runolfsdottir LLC,Japanese,Expensive,Midtown,2:12,false
+823,"Vandervort, Rippin and Hodkiewicz",That,Expensive,Uptown,11:56,false
+824,"Lang, Cummerata and Ratke",Italian,Expensive,Midtown,8:53,false
+825,"Brakus, Larson and Walter",Japanese,Expensive,Downtown,0:21,false
+826,"Greenfelder, Hauck and Rodriguez",That,Medium,Downtown,18:43,false
+827,Gleichner and Sons,Italian,Expensive,Midtown,17:03,false
+828,Kassulke Inc,That,Medium,Uptown,20:09,true
+829,Rippin Group,That,Cheap,Midtown,8:59,true
+830,Sanford LLC,Italian,Cheap,Midtown,13:20,false
+831,"Dooley, Legros and Robel",Chinese,Medium,Midtown,11:24,false
+832,"Parker, West and Sawayn",French,Expensive,Downtown,14:35,true
+833,MacGyver-Prohaska,American,Medium,Uptown,0:23,true
+834,Towne Group,Indian,Expensive,Uptown,21:01,true
+835,"Rutherford, Kris and Ankunding",French,Medium,Midtown,16:19,true
+836,"Ortiz, Kertzmann and Moore",American,Cheap,Downtown,8:05,false
+837,Hodkiewicz and Sons,Korean,Medium,Midtown,12:43,false
+838,"Oberbrunner, Champlin and Moore",Japanese,Expensive,Uptown,10:21,true
+839,Mueller-Pacocha,Korean,Medium,Midtown,21:09,false
+840,Schaden Group,French,Expensive,Downtown,7:38,true
+841,Langworth-Balistreri,That,Medium,Midtown,8:42,true
+842,Bruen Group,That,Medium,Midtown,1:27,true
+843,"Schuppe, Stark and Buckridge",Chinese,Medium,Midtown,10:18,true
+844,Borer Inc,French,Expensive,Downtown,12:00,true
+845,"Kuhlman, Ryan and Turcotte",French,Expensive,Midtown,12:01,false
+846,Treutel-Sporer,Indian,Expensive,Uptown,6:41,false
+847,Lubowitz-D'Amore,Korean,Cheap,Midtown,0:58,false
+848,Pfannerstill-Stark,Indian,Cheap,Midtown,20:14,true
+849,"Schultz, Weissnat and Prohaska",Indian,Cheap,Midtown,13:23,true
+850,Hayes-Altenwerth,American,Expensive,Downtown,19:54,true
+851,"Pouros, Runolfsdottir and Leuschke",French,Expensive,Midtown,19:26,true
+852,Stokes Inc,That,Medium,Downtown,10:53,true
+853,Spencer Group,Japanese,Expensive,Midtown,21:03,true
+854,"Rippin, Glover and O'Hara",French,Medium,Midtown,20:47,true
+855,Rice and Sons,Korean,Cheap,Midtown,23:55,true
+856,"Raynor, McCullough and Bartell",Indian,Cheap,Downtown,17:24,true
+857,Monahan and Sons,American,Expensive,Uptown,2:42,false
+858,Abshire Inc,Italian,Cheap,Downtown,10:39,true
+859,Doyle-Berge,Chinese,Medium,Downtown,5:41,true
+860,Hane-Pollich,Chinese,Cheap,Uptown,11:04,false
+861,Kuhn LLC,Japanese,Expensive,Uptown,10:37,true
+862,"Cartwright, Hyatt and Sanford",French,Medium,Uptown,2:30,true
+863,Haley Group,French,Expensive,Downtown,2:23,true
+864,Jakubowski-Conroy,Indian,Medium,Downtown,21:19,false
+865,"Littel, O'Connell and O'Hara",Indian,Medium,Downtown,22:40,false
+866,Connelly-Goodwin,That,Medium,Uptown,1:15,false
+867,"Parker, Pollich and Ferry",Italian,Medium,Midtown,21:25,false
+868,Altenwerth-Metz,Indian,Cheap,Midtown,6:30,true
+869,Bergnaum LLC,Korean,Medium,Midtown,8:19,true
+870,"Gerhold, Sporer and Schultz",That,Expensive,Downtown,15:28,false
+871,Kuphal and Sons,French,Cheap,Uptown,23:45,true
+872,"Kautzer, Hand and Torphy",Italian,Cheap,Downtown,16:47,false
+873,Thiel-Kautzer,Korean,Medium,Downtown,10:00,false
+874,Collier-Marquardt,Chinese,Cheap,Uptown,15:01,true
+875,Morar LLC,Korean,Expensive,Downtown,0:51,true
+876,Morissette-Krajcik,Indian,Cheap,Midtown,5:15,false
+877,"Prohaska, Jones and Fisher",Korean,Medium,Midtown,14:21,false
+878,Beer-Tromp,French,Medium,Midtown,0:39,true
+879,Mitchell-Armstrong,French,Medium,Midtown,3:30,true
+880,Huel-Dare,French,Medium,Midtown,11:20,false
+881,Skiles-Bradtke,Italian,Medium,Midtown,18:01,false
+882,"Gorczany, Rodriguez and Lubowitz",Italian,Medium,Downtown,7:21,true
+883,Graham Group,Italian,Medium,Downtown,0:54,false
+884,"Predovic, Ortiz and O'Reilly",Chinese,Medium,Midtown,9:27,true
+885,"Legros, Gottlieb and Paucek",Indian,Expensive,Downtown,2:02,true
+886,White-Marks,Korean,Expensive,Downtown,7:55,false
+887,"Hamill, Gorczany and Rosenbaum",Korean,Expensive,Uptown,23:47,true
+888,Feeney and Sons,American,Expensive,Downtown,13:00,false
+889,"Simonis, Mante and Spinka",Italian,Medium,Midtown,18:28,false
+890,Zboncak-Price,Indian,Expensive,Uptown,22:57,true
+891,Donnelly-Deckow,Korean,Medium,Midtown,13:56,false
+892,Anderson Inc,French,Medium,Uptown,18:11,false
+893,"Sawayn, Connelly and Lemke",Italian,Cheap,Downtown,1:18,false
+894,Kessler-Pagac,American,Medium,Uptown,13:36,true
+895,Ondricka Inc,French,Expensive,Downtown,2:19,true
+896,Raynor-Gutkowski,That,Expensive,Downtown,13:44,false
+897,Halvorson-Roob,American,Medium,Midtown,1:19,true
+898,Stoltenberg LLC,French,Cheap,Downtown,4:56,false
+899,Franecki LLC,Italian,Medium,Uptown,16:00,false
+900,"Green, Morissette and Witting",Japanese,Cheap,Midtown,22:14,true
+901,Feest Inc,Indian,Cheap,Midtown,0:26,true
+902,Hegmann-Bechtelar,Korean,Cheap,Uptown,14:34,false
+903,Heidenreich and Sons,Chinese,Cheap,Downtown,20:30,true
+904,"Wintheiser, Howe and Gutkowski",French,Expensive,Downtown,15:05,false
+905,Renner and Sons,American,Medium,Uptown,20:00,true
+906,Heaney and Sons,Italian,Medium,Midtown,18:07,false
+907,"Wilkinson, Waters and Schmeler",Japanese,Cheap,Midtown,1:49,false
+908,Kulas and Sons,That,Cheap,Downtown,9:46,false
+909,"Kautzer, Labadie and Kris",Japanese,Medium,Downtown,13:47,false
+910,Bosco-Okuneva,American,Medium,Downtown,1:24,true
+911,Dickinson-Hayes,Indian,Expensive,Uptown,16:35,true
+912,Reinger-Daugherty,Korean,Expensive,Uptown,21:27,false
+913,Hane Inc,American,Cheap,Uptown,5:02,true
+914,Hintz Group,Japanese,Cheap,Downtown,4:23,true
+915,Lindgren LLC,French,Expensive,Uptown,23:36,false
+916,Howe-Crona,That,Cheap,Downtown,8:20,true
+917,"Zemlak, Smitham and Nolan",Chinese,Cheap,Midtown,23:50,false
+918,"Roob, Sanford and Grant",Japanese,Expensive,Uptown,8:45,true
+919,"Hickle, Lesch and Williamson",French,Cheap,Uptown,21:31,true
+920,Nader and Sons,American,Cheap,Uptown,23:44,true
+921,Torp-Batz,Korean,Expensive,Midtown,14:16,true
+922,"Hodkiewicz, Daugherty and Nolan",Korean,Cheap,Downtown,8:14,false
+923,Parker and Sons,Korean,Cheap,Downtown,4:52,false
+924,"Dicki, Ebert and Swift",American,Medium,Midtown,2:57,true
+925,O'Reilly Inc,French,Cheap,Uptown,0:36,false
+926,Sipes-Schuppe,Italian,Medium,Midtown,18:39,true
+927,"Kling, Boyle and Waelchi",French,Expensive,Downtown,18:30,false
+928,"Hodkiewicz, Von and Torp",Indian,Cheap,Uptown,17:09,false
+929,Schinner Inc,Chinese,Medium,Uptown,19:42,true
+930,"Murazik, Thompson and Emmerich",Italian,Expensive,Uptown,5:22,true
+931,Sipes-Okuneva,Chinese,Cheap,Downtown,14:08,false
+932,"Nicolas, Bogisich and Lakin",That,Cheap,Uptown,18:14,false
+933,Wiegand-Balistreri,Korean,Expensive,Uptown,12:36,true
+934,"Durgan, Parisian and Treutel",French,Expensive,Midtown,20:42,true
+935,Kuhic Inc,Korean,Medium,Uptown,9:11,true
+936,Kshlerin-Prohaska,Japanese,Expensive,Downtown,3:36,true
+937,Schultz-Gutmann,Korean,Expensive,Uptown,7:59,true
+938,Rippin Group,French,Expensive,Uptown,3:17,true
+939,Spinka-Lakin,Indian,Cheap,Uptown,7:00,true
+940,Jacobi-Russel,Japanese,Expensive,Midtown,22:24,true
+941,Casper-Howell,Italian,Expensive,Downtown,13:46,false
+942,"Durgan, Boyle and Runte",Korean,Cheap,Downtown,14:36,true
+943,Greenholt-Luettgen,That,Expensive,Downtown,17:13,false
+944,Labadie LLC,Italian,Cheap,Uptown,0:57,true
+945,Wolff LLC,Japanese,Cheap,Uptown,17:09,false
+946,Goldner-Glover,American,Expensive,Downtown,1:26,false
+947,"Collins, Altenwerth and Hansen",French,Expensive,Midtown,7:17,true
+948,"Bernhard, Bruen and Wuckert",Indian,Medium,Downtown,11:21,true
+949,"Harber, Ullrich and Bernhard",American,Cheap,Uptown,2:06,false
+950,Gutkowski-Kozey,Indian,Expensive,Midtown,2:57,false
+951,Hettinger and Sons,Japanese,Cheap,Midtown,14:29,false
+952,"Wolf, Armstrong and Collier",French,Medium,Downtown,4:06,true
+953,O'Conner LLC,French,Cheap,Midtown,8:38,true
+954,"Okuneva, Schuster and Rempel",Japanese,Expensive,Midtown,0:02,true
+955,Marquardt-Mann,Indian,Expensive,Downtown,17:44,false
+956,Swaniawski-Douglas,Indian,Expensive,Downtown,0:40,false
+957,Hackett-Cole,French,Medium,Uptown,21:46,false
+958,Lebsack and Sons,Japanese,Cheap,Uptown,15:57,false
+959,"Wiza, Powlowski and Corwin",Italian,Cheap,Uptown,3:59,false
+960,Thompson Inc,Japanese,Cheap,Uptown,23:41,false
+961,Hermiston-Gorczany,Italian,Medium,Uptown,6:18,true
+962,"Dickens, Pacocha and Ebert",Chinese,Cheap,Uptown,14:58,true
+963,Klein-Lesch,French,Medium,Uptown,11:44,true
+964,Predovic-Wilkinson,Chinese,Expensive,Midtown,12:22,true
+965,Batz-Barrows,Chinese,Medium,Midtown,23:54,false
+966,Harris and Sons,Japanese,Expensive,Midtown,11:45,true
+967,Gutmann-Keebler,Chinese,Cheap,Downtown,23:28,true
+968,"Schiller, Gutkowski and Turner",Japanese,Cheap,Downtown,18:27,false
+969,Shields LLC,French,Medium,Downtown,7:45,true
+970,VonRueden Inc,Indian,Expensive,Downtown,14:49,false
+971,Kozey-Purdy,Chinese,Medium,Downtown,11:21,false
+972,Block-Beatty,Indian,Expensive,Downtown,12:59,false
+973,Stracke and Sons,That,Cheap,Uptown,3:09,true
+974,Klein-Huels,French,Medium,Downtown,8:30,true
+975,Schulist-Hauck,Italian,Medium,Uptown,7:49,false
+976,"Jones, Langworth and Goldner",Korean,Medium,Uptown,22:24,true
+977,Graham-Hermiston,Chinese,Expensive,Uptown,3:28,false
+978,Rolfson-Abernathy,Japanese,Expensive,Uptown,16:55,true
+979,"McKenzie, Leuschke and Stracke",American,Expensive,Midtown,23:15,true
+980,Pfeffer-Russel,American,Cheap,Midtown,23:03,false
+981,"Stracke, Goyette and Hyatt",Japanese,Expensive,Downtown,3:07,true
+982,Macejkovic-Feeney,That,Expensive,Uptown,13:23,false
+983,Hilpert Group,American,Cheap,Midtown,1:29,true
+984,Lowe-Hilpert,American,Cheap,Downtown,9:28,true
+985,"Thiel, Stokes and Gleichner",Korean,Medium,Uptown,16:48,false
+986,White-Haag,That,Medium,Downtown,20:35,true
+987,"Wilkinson, Fadel and Bogan",Chinese,Expensive,Uptown,17:01,true
+988,"Kilback, Casper and Witting",French,Cheap,Midtown,5:19,true
+989,"Waters, Rowe and Rogahn",Indian,Expensive,Uptown,8:54,true
+990,"Windler, Spencer and Johnson",Italian,Medium,Downtown,18:34,true
+991,Klein Group,French,Expensive,Midtown,19:02,true
+992,"Haag, Lowe and Abshire",Indian,Expensive,Uptown,14:37,true
+993,O'Reilly LLC,Japanese,Cheap,Midtown,10:50,false
+994,"Kirlin, Hansen and Mills",American,Expensive,Downtown,13:49,true
+995,Rath-Nikolaus,Indian,Cheap,Midtown,19:09,false
+996,Hickle LLC,Italian,Cheap,Uptown,4:45,true
+997,Kris-Rice,Italian,Medium,Midtown,2:42,true
+998,"Prohaska, Aufderhar and Waters",Korean,Expensive,Uptown,16:02,true
+999,"Kuhlman, Mante and Schaden",Korean,Expensive,Midtown,16:58,true
+1000,Flatley Inc,Chinese,Expensive,Midtown,18:46,true
